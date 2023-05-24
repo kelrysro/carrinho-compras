@@ -90,7 +90,7 @@ function removerItemCarrinho(item){
     </div>
   </div>
 </template>
-
+  
 <style scoped>
 
 .detalhes-livro input[type='number']{
